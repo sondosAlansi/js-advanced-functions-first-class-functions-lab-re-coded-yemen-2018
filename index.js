@@ -30,7 +30,7 @@ function fetchSpecifiedDrivers(drivers,returnLastTwoDrivers){
   
   return returnLastTwoDrivers(drivers);
 }
- 
+ fetchSpecifiedDrivers(drivers,returnLastTwoDrivers);
 
   
   
